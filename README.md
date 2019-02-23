@@ -1,7 +1,7 @@
 ## How to use
-`git clone https://github.com/G2-715/particles`
+`git clone https://github.com/G2-715/fractals`
 
-`cd ./particles`
+`cd ./fractals`
 
 `npm install`
 
